@@ -46,7 +46,7 @@ A simple web application that allows users to input a website name and URL to ge
 ---
 
 ## Screenshots
-![Homepage Screenshot](images/Screenshot 2024-12-08 101405.png)
+<img src ="images/Screenshot 2024-12-08 101405.png" width= "500px">
 
 ---
 
